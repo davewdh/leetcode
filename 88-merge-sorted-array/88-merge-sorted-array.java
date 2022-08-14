@@ -13,7 +13,7 @@ class Solution {
             }
         }
         while (index2 >= 0) {
-            nums1[index3] = nums2[index3];
+            nums1[index3] = nums2[index2];
             index3--;
             index2--;
         }
