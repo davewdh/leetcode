@@ -32,7 +32,7 @@ class Solution {
         
         List<Integer> arr = new ArrayList<>();
         if (root == null) 
-            return new ArrayList<Integer>();
+            return arr;
         arr.addAll(inorderTraversal(root.left));
         arr.add(root.val);
         arr.addAll(inorderTraversal(root.right));
