@@ -6,17 +6,14 @@ class Solution {
         for (int i = 1; i <= numRows; i++) {
             List<Integer> cur = new ArrayList<>();
             cur.add(1);
-            if (pre != null && pre.size() >= 2) {
-               for (int j = 1; j <= i - 2; j++) {
+            if (pre != null && i >= 2) {
+               for (int j = 1; j <= i - 2; j++) 
                     cur.add(pre.get(j-1) + pre.get(j));
-                } 
             }
-                
             if (i > 1)
                 cur.add(1);
             aList.add(cur);
             pre = cur;
-            
         }
         return aList;
     }
