@@ -7,6 +7,5 @@ class Solution {
             minPrice = Math.min(minPrice, prices[i]);
         }
         return max;
-        
     }
 }
