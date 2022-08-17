@@ -3,13 +3,17 @@ class Solution {
         if ((needle == "") ||(needle.equals(haystack)))
             return 0;
         for (int i = 0; i < haystack.length(); i++) {
-            if (needle.length() > haystack.length() - i)
-                break;
-            for (int j = 0; j < needle.length(); j++) {
-                if (haystack.charAt(i+j) != needle.charAt(j))
-                    break;
-                if (j == needle.length()-1)
+            int count = 0;
+            if ((haystack.charAt(i) == needle.charAt(0)) && (needle.length() <= haystack.length()-i)) {
+                if (needle.length() == 1)
                     return i;
+                for (int j = 1; j < needle.length(); j++) {
+                    if (haystack.charAt(i+j) != needle.charAt(j))
+                        break;
+                    count++;
+                    if (count == needle.length()-1)
+                        return i;
+                }
             }
         }
         return -1;
