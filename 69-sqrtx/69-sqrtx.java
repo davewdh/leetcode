@@ -5,12 +5,18 @@ class Solution {
         if (x == 1)
             return 1;
         
-        int i = 1;
-        while (i < x/2) {
+        for (int i = 1; i <= x/2; i++) {
             if ((i <= x/i) && ( i+1 > (x / (i+1))))
-                break;  
-            i++;
+                return i;  
         }
-        return i;
+        return -1;
+        
+        // int i = 1;
+        // while (i <= x/2) {
+        //     if ((i <= x/i) && ( i+1 > (x / (i+1))))
+        //         break;  
+        //     i++;
+        // }
+        // return i;
     }
 }
