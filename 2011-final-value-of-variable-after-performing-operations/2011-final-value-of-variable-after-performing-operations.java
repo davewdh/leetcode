@@ -1,10 +1,10 @@
 class Solution {
     public int finalValueAfterOperations(String[] operations) {
         int count = 0;
-        for (int i = 0; i < operations.length; i++) {
-            if (operations[i].equals("++X") || operations[i].equals("X++"))
+        for (String s : operations) {
+            if (s.equals("++X") || s.equals("X++"))
                 count++;
-            if (operations[i].equals("--X") || operations[i].equals("X--"))
+            else
                 count--;
         }
         return count;
