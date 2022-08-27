@@ -5,7 +5,7 @@ class Solution {
             if (Character.isDigit(address.charAt(i)))
                 s += address.charAt(i);
             else
-                s += "[" + address.charAt(i) + "]";
+                s += "[.]";
         }
         return s;
     }
