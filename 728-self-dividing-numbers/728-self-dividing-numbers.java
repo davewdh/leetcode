@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> selfDividingNumbers(int left, int right) {
-        List<Integer> aList = new LinkedList<>();
+        List<Integer> aList = new ArrayList<>();
         for (int i = left; i <= right; i++) {
             boolean isValid = true;
             for (char ch : ("" + i).toCharArray()) {
