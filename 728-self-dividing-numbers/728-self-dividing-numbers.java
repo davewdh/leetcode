@@ -3,8 +3,8 @@ class Solution {
         List<Integer> aList = new ArrayList<>();
         for (int i = left; i <= right; i++) {
             boolean isValid = true;
-            for (char ch : ("" + i).toCharArray()) {
-                if (ch - '0' == 0 || (i % (ch - '0') != 0)) {
+            for (int j = i; j > 0; j /= 10) {
+                if (j % 10 == 0 || (i % (j % 10) != 0)) {
                     isValid = false;
                     break;
                 }
