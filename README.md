@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/davewdh/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/davewdh/leetcode/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
 | [2058-concatenation-of-array](https://github.com/davewdh/leetcode/tree/master/2058-concatenation-of-array) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/davewdh/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
 ## Two Pointers
@@ -40,4 +42,16 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
