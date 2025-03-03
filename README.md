@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/davewdh/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/davewdh/leetcode/tree/master/0027-remove-element) |
+| [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
 | [2058-concatenation-of-array](https://github.com/davewdh/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -17,8 +18,21 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/davewdh/leetcode/tree/master/0001-two-sum) |
+| [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/davewdh/leetcode/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
