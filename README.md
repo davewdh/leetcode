@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/davewdh/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/davewdh/leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/davewdh/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/davewdh/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/davewdh/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/davewdh/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/davewdh/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
@@ -61,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/davewdh/leetcode/tree/master/0049-group-anagrams) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/davewdh/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
