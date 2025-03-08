@@ -13,6 +13,6 @@ class Solution:
         arr.sort()
 
         ans = []
-        while k > len(ans):
+        for i in range(0, k):
             ans.append(arr.pop()[1])
         return ans
