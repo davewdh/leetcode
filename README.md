@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/davewdh/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/davewdh/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/davewdh/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/davewdh/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/davewdh/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/davewdh/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/davewdh/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/davewdh/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/davewdh/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
@@ -59,11 +61,13 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/davewdh/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/davewdh/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/davewdh/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/davewdh/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/davewdh/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
