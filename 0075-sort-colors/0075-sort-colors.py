@@ -3,12 +3,6 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        
-        def swap(l, r):
-            temp = nums[l]
-            nums[l] = nums[r]
-            nums[r] = temp
-
         l = 0
         r = len(nums) - 1
         i = 0
@@ -17,7 +11,7 @@ class Solution:
                 nums[l], nums[i] = nums[i], nums[l]
                 l += 1
             elif nums[i] == 2:
-                swap(i, r)
+                nums[i], nums[r] = nums[r], nums[i]
                 r -= 1
                 i -= 1
             i += 1
