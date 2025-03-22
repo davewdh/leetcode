@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/davewdh/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/davewdh/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/davewdh/leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/davewdh/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/davewdh/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/davewdh/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/davewdh/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/davewdh/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/davewdh/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/davewdh/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/davewdh/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/davewdh/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -126,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/davewdh/leetcode/tree/master/0948-sort-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/davewdh/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
