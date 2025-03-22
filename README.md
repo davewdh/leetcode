@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/davewdh/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/davewdh/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/davewdh/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/davewdh/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Linked List
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/davewdh/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/davewdh/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/davewdh/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/davewdh/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Matrix
 |  |
 | ------- |
