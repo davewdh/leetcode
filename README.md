@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/davewdh/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/davewdh/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/davewdh/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/davewdh/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/davewdh/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/davewdh/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/davewdh/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/davewdh/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/davewdh/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/davewdh/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/davewdh/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/davewdh/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Merge Sort
