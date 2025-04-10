@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/davewdh/leetcode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
 ## Design
@@ -229,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/davewdh/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/davewdh/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
