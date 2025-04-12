@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/davewdh/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/davewdh/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/davewdh/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/davewdh/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/davewdh/leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/davewdh/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/davewdh/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/davewdh/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/davewdh/leetcode/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
@@ -237,4 +239,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/davewdh/leetcode/tree/master/0206-reverse-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/davewdh/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
