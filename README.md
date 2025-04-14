@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/davewdh/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/davewdh/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/davewdh/leetcode/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/davewdh/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/davewdh/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/davewdh/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/davewdh/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/davewdh/leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/davewdh/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/davewdh/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/davewdh/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/davewdh/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/davewdh/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/davewdh/leetcode/tree/master/0739-daily-temperatures) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/davewdh/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/davewdh/leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/davewdh/leetcode/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
