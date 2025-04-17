@@ -6,7 +6,7 @@ class Solution:
             if nums[m] <= nums[r]:
                 r = m
             else:
-                l = l + 1
+                l = m + 1
         return nums[l]
         
 
