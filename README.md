@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/davewdh/leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/davewdh/leetcode/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/davewdh/leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/davewdh/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/davewdh/leetcode/tree/master/0917-boats-to-save-people) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/davewdh/leetcode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/davewdh/leetcode/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/davewdh/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/davewdh/leetcode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/davewdh/leetcode/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/davewdh/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Hash Function
@@ -270,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/davewdh/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0860-design-circular-queue](https://github.com/davewdh/leetcode/tree/master/0860-design-circular-queue) |
 ## Backtracking
 |  |
 | ------- |
