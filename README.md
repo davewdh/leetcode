@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/davewdh/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/davewdh/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/davewdh/leetcode/tree/master/0739-daily-temperatures) |
+| [0772-construct-quad-tree](https://github.com/davewdh/leetcode/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/davewdh/leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/davewdh/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0772-construct-quad-tree](https://github.com/davewdh/leetcode/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/davewdh/leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/davewdh/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/davewdh/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0772-construct-quad-tree](https://github.com/davewdh/leetcode/tree/master/0772-construct-quad-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -331,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0450-delete-node-in-a-bst](https://github.com/davewdh/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/davewdh/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/davewdh/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0772-construct-quad-tree](https://github.com/davewdh/leetcode/tree/master/0772-construct-quad-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/davewdh/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
