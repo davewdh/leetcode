@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/davewdh/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/davewdh/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/davewdh/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/davewdh/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/davewdh/leetcode/tree/master/0860-design-circular-queue) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/davewdh/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/davewdh/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/davewdh/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/davewdh/leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/davewdh/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/davewdh/leetcode/tree/master/0937-online-stock-span) |
 ## Bit Manipulation
 |  |
@@ -342,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/davewdh/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0772-construct-quad-tree](https://github.com/davewdh/leetcode/tree/master/0772-construct-quad-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/davewdh/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/davewdh/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/davewdh/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/davewdh/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -382,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/davewdh/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/davewdh/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/davewdh/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/davewdh/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/davewdh/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/davewdh/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -405,4 +410,5 @@ Collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/davewdh/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/davewdh/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/davewdh/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/davewdh/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
