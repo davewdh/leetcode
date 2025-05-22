@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/davewdh/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/davewdh/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/davewdh/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/davewdh/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/davewdh/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/davewdh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/davewdh/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/davewdh/leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/davewdh/leetcode/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/davewdh/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Interactive
 |  |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/davewdh/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/davewdh/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/davewdh/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Doubly-Linked List
