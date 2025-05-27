@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/davewdh/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/davewdh/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/davewdh/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/davewdh/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/davewdh/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/davewdh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/davewdh/leetcode/tree/master/0090-subsets-ii) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/davewdh/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/davewdh/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/davewdh/leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/davewdh/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/davewdh/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/davewdh/leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/davewdh/leetcode/tree/master/0394-decode-string) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/davewdh/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/davewdh/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/davewdh/leetcode/tree/master/0079-word-search) |
 | [0772-construct-quad-tree](https://github.com/davewdh/leetcode/tree/master/0772-construct-quad-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/davewdh/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/davewdh/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/davewdh/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/davewdh/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/davewdh/leetcode/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/davewdh/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Interactive
@@ -407,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/davewdh/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/davewdh/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/davewdh/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/davewdh/leetcode/tree/master/0100-same-tree) |
