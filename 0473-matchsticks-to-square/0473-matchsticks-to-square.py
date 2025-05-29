@@ -19,9 +19,6 @@ class Solution:
                         return True
                     sides[side] -= matchsticks[i]
 
-                if sides[side] == 0:
-                    break
-
             return False
 
         return dfs(0)
