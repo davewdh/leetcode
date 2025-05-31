@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/davewdh/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/davewdh/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/davewdh/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/davewdh/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/davewdh/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/davewdh/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/davewdh/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/davewdh/leetcode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/davewdh/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/davewdh/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/davewdh/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/davewdh/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/davewdh/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/davewdh/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/davewdh/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/davewdh/leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/davewdh/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/davewdh/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -507,4 +510,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/davewdh/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/davewdh/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
