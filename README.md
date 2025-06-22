@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/davewdh/leetcode/tree/master/0948-sort-an-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/davewdh/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/davewdh/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/davewdh/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/davewdh/leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/davewdh/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/davewdh/leetcode/tree/master/1127-last-stone-weight) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/davewdh/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/davewdh/leetcode/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/davewdh/leetcode/tree/master/0772-construct-quad-tree) |
+| [1036-rotting-oranges](https://github.com/davewdh/leetcode/tree/master/1036-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/davewdh/leetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/davewdh/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/davewdh/leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/davewdh/leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/davewdh/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
