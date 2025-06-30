@@ -7,17 +7,17 @@ class Solution {
         backTracking("", 0, 0);
         return ans;
     }
-    private void backTracking(String s, int left, int right){
+
+    private void backTracking(String s, int leftN, int rightN) {
         if (s.length() == 2 * n) {
             ans.add(s);
             return;
         }
-        if (left < n) {
-            backTracking(s + "(", left+1, right);
-        } 
-        if (right < left) {
-            backTracking(s + ")", left, right+1);
+        if (leftN < n) {
+            backTracking(s + "(", leftN + 1, rightN);
         }
-        
+        if (rightN < leftN) {
+            backTracking(s + ")", leftN, rightN + 1);
+        }
     }
 }
