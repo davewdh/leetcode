@@ -2,6 +2,9 @@ class Solution:
     def openLock(self, deadends: List[str], target: str) -> int:
         if "0000" in deadends:
             return -1
+
+        if target == "0000":
+            return 0
         
         q = deque() 
         q.append(("0000", 0))
