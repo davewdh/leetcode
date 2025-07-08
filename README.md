@@ -480,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/davewdh/leetcode/tree/master/0695-max-area-of-island) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/davewdh/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/davewdh/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/davewdh/leetcode/tree/master/1558-course-schedule-iv) |
 ## Binary Tree
 |  |
 | ------- |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0753-open-the-lock](https://github.com/davewdh/leetcode/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/davewdh/leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/davewdh/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/davewdh/leetcode/tree/master/1558-course-schedule-iv) |
 ## String Matching
 |  |
 | ------- |
@@ -568,9 +570,11 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/davewdh/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/davewdh/leetcode/tree/master/0210-course-schedule-ii) |
 | [1039-find-the-town-judge](https://github.com/davewdh/leetcode/tree/master/1039-find-the-town-judge) |
+| [1558-course-schedule-iv](https://github.com/davewdh/leetcode/tree/master/1558-course-schedule-iv) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/davewdh/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/davewdh/leetcode/tree/master/0210-course-schedule-ii) |
+| [1558-course-schedule-iv](https://github.com/davewdh/leetcode/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
