@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/davewdh/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/davewdh/leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/davewdh/leetcode/tree/master/1184-car-pooling) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/davewdh/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1962-single-threaded-cpu](https://github.com/davewdh/leetcode/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/davewdh/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/davewdh/leetcode/tree/master/2058-concatenation-of-array) |
