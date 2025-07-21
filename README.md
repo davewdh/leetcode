@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/davewdh/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/davewdh/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/davewdh/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/davewdh/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/davewdh/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/davewdh/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/davewdh/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/davewdh/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/davewdh/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/davewdh/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/davewdh/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/davewdh/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/davewdh/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/davewdh/leetcode/tree/master/0567-permutation-in-string) |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/davewdh/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/davewdh/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/davewdh/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/davewdh/leetcode/tree/master/0392-is-subsequence) |
 | [0473-matchsticks-to-square](https://github.com/davewdh/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/davewdh/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Binary Search
