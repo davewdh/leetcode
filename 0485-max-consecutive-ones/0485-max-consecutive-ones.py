@@ -8,6 +8,6 @@ class Solution:
             else:
                 ans = max(count, ans)
                 count = 0
-            ans = max(count, ans)
+        ans = max(count, ans)
         return ans
         
