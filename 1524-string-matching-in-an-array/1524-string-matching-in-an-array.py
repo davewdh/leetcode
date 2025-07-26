@@ -7,7 +7,6 @@ class Solution:
                 if i == j:
                     continue
                 if words[i] in words[j]:
-                    if words[i] not in ans:
-                        ans.append(words[i])
-
+                    ans.append(words[i])
+                    break
         return ans
