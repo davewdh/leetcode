@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/davewdh/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/davewdh/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/davewdh/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/davewdh/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/davewdh/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/davewdh/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/davewdh/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/davewdh/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/davewdh/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/davewdh/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/davewdh/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/davewdh/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/davewdh/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/davewdh/leetcode/tree/master/0392-is-subsequence) |
