@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/davewdh/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/davewdh/leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/davewdh/leetcode/tree/master/0948-sort-an-array) |
+| [0965-unique-email-addresses](https://github.com/davewdh/leetcode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/davewdh/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/davewdh/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/davewdh/leetcode/tree/master/1036-rotting-oranges) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/davewdh/leetcode/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/davewdh/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/davewdh/leetcode/tree/master/0817-design-hashmap) |
+| [0965-unique-email-addresses](https://github.com/davewdh/leetcode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/davewdh/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/davewdh/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/davewdh/leetcode/tree/master/1039-find-the-town-judge) |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/davewdh/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0753-open-the-lock](https://github.com/davewdh/leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/davewdh/leetcode/tree/master/0778-reorganize-string) |
+| [0965-unique-email-addresses](https://github.com/davewdh/leetcode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/davewdh/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/davewdh/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1304-longest-happy-string](https://github.com/davewdh/leetcode/tree/master/1304-longest-happy-string) |
