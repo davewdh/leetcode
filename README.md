@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0990-verifying-an-alien-dictionary](https://github.com/davewdh/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/davewdh/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/davewdh/leetcode/tree/master/1039-find-the-town-judge) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/davewdh/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/davewdh/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/davewdh/leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/davewdh/leetcode/tree/master/0778-reorganize-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/davewdh/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1894-merge-strings-alternately](https://github.com/davewdh/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2727-number-of-senior-citizens](https://github.com/davewdh/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/davewdh/leetcode/tree/master/3379-score-of-a-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/davewdh/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
 | ------- |
