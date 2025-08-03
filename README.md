@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/davewdh/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/davewdh/leetcode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/davewdh/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0724-find-pivot-index](https://github.com/davewdh/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/davewdh/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/davewdh/leetcode/tree/master/0739-daily-temperatures) |
 | [0753-open-the-lock](https://github.com/davewdh/leetcode/tree/master/0753-open-the-lock) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/davewdh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/davewdh/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/davewdh/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/davewdh/leetcode/tree/master/0724-find-pivot-index) |
 | [1184-car-pooling](https://github.com/davewdh/leetcode/tree/master/1184-car-pooling) |
 ## Greedy
 |  |
