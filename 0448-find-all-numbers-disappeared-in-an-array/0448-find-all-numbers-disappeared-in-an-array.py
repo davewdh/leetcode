@@ -4,8 +4,7 @@ class Solution:
         n = len(nums)
         newArr = [False] * n 
         for i in range(n):
-            if not newArr[nums[i]-1]:
-                newArr[nums[i]-1] = True
+            newArr[nums[i]-1] = True
         for i in range(n):
             if not newArr[i]:
                 ans.append(i+1)
