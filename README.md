@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/davewdh/leetcode/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/davewdh/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/davewdh/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Simulation
 |  |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1023-time-based-key-value-store](https://github.com/davewdh/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/davewdh/leetcode/tree/master/1039-find-the-town-judge) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/davewdh/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/davewdh/leetcode/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/davewdh/leetcode/tree/master/0772-construct-quad-tree) |
 | [1036-rotting-oranges](https://github.com/davewdh/leetcode/tree/master/1036-rotting-oranges) |
+| [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -395,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/davewdh/leetcode/tree/master/0189-rotate-array) |
 | [1014-k-closest-points-to-origin](https://github.com/davewdh/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/davewdh/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
