@@ -7,7 +7,7 @@ class Solution:
                     aMap[c] += 1
                 else:
                     aMap[c] = 1
-        if len(set("balloon")) != len(set(aMap.keys())):
+        if len(aMap) < 5:
             return 0
         if aMap.get('l'):
             num_l = aMap.get('l')
@@ -15,7 +15,6 @@ class Solution:
         if aMap.get('o'):
             num_o = aMap.get('o')
             aMap['o'] = floor(num_o/2)
-        values = list(aMap.values())
-        values.sort()
-        return values[0]
+        
+        return min(aMap.values())
         
