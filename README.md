@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0883-car-fleet](https://github.com/davewdh/leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/davewdh/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/davewdh/leetcode/tree/master/0917-boats-to-save-people) |
+| [0932-monotonic-array](https://github.com/davewdh/leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/davewdh/leetcode/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/davewdh/leetcode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/davewdh/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
