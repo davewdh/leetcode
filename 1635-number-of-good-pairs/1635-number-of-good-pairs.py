@@ -9,5 +9,5 @@ class Solution:
         
         for v in count.values():
             if v > 1:
-                ans += ((v * (v-1)) / 2)
-        return int(ans)
+                ans += ((v * (v-1)) // 2)
+        return ans
