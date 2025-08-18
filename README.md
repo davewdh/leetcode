@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/davewdh/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/davewdh/leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/davewdh/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/davewdh/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/davewdh/leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/davewdh/leetcode/tree/master/1137-height-checker) |
 | [1184-car-pooling](https://github.com/davewdh/leetcode/tree/master/1184-car-pooling) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0990-verifying-an-alien-dictionary](https://github.com/davewdh/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/davewdh/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/davewdh/leetcode/tree/master/1039-find-the-town-judge) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/davewdh/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/davewdh/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/davewdh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/davewdh/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/davewdh/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/davewdh/leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/davewdh/leetcode/tree/master/0778-reorganize-string) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/davewdh/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/davewdh/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/davewdh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/davewdh/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0965-unique-email-addresses](https://github.com/davewdh/leetcode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/davewdh/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/davewdh/leetcode/tree/master/1023-time-based-key-value-store) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/davewdh/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/davewdh/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1304-longest-happy-string](https://github.com/davewdh/leetcode/tree/master/1304-longest-happy-string) |
 | [1524-string-matching-in-an-array](https://github.com/davewdh/leetcode/tree/master/1524-string-matching-in-an-array) |
