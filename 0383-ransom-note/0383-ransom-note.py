@@ -8,11 +8,8 @@ class Solution:
                 aMap[c] = 1
         
         for c in ransomNote:
-            if aMap.get(c):
-                if aMap[c] > 0:
-                    aMap[c] -= 1
-                else:
-                    return False
+            if aMap.get(c) and aMap[c] > 0:
+                aMap[c] -= 1
             else:
                 return False
         return True
