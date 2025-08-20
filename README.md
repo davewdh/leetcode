@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1927-maximum-ascending-subarray-sum](https://github.com/davewdh/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1962-single-threaded-cpu](https://github.com/davewdh/leetcode/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/davewdh/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/davewdh/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/davewdh/leetcode/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/davewdh/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1137-height-checker](https://github.com/davewdh/leetcode/tree/master/1137-height-checker) |
 | [1184-car-pooling](https://github.com/davewdh/leetcode/tree/master/1184-car-pooling) |
 | [1962-single-threaded-cpu](https://github.com/davewdh/leetcode/tree/master/1962-single-threaded-cpu) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/davewdh/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Counting
 |  |
 | ------- |
