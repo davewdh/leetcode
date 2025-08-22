@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/davewdh/leetcode/tree/master/1619-path-crossing) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/davewdh/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/davewdh/leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/davewdh/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/davewdh/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
