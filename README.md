@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/davewdh/leetcode/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/davewdh/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/davewdh/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/davewdh/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/davewdh/leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/davewdh/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/davewdh/leetcode/tree/master/1619-path-crossing) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/davewdh/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/davewdh/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/davewdh/leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/davewdh/leetcode/tree/master/1894-merge-strings-alternately) |
