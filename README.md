@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/davewdh/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/davewdh/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/davewdh/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/davewdh/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/davewdh/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/davewdh/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/davewdh/leetcode/tree/master/0463-island-perimeter) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/davewdh/leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/davewdh/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/davewdh/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/davewdh/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/davewdh/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/davewdh/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/davewdh/leetcode/tree/master/0409-longest-palindrome) |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/davewdh/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/davewdh/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/davewdh/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/davewdh/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/davewdh/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/davewdh/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/davewdh/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -248,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/davewdh/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/davewdh/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/davewdh/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/davewdh/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/davewdh/leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/davewdh/leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/davewdh/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -434,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/davewdh/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/davewdh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/davewdh/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/davewdh/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/davewdh/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/davewdh/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/davewdh/leetcode/tree/master/0792-binary-search) |
