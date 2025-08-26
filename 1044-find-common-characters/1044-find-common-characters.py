@@ -18,10 +18,7 @@ class Solution:
                     m1[c] = 1
             for k, v in m.items():
                 if k in m1:
-                    if m.get(k) < m1.get(k):
-                        temp[k] = v
-                    else:
-                        temp[k] = m1.get(k)
+                    temp[k] = min(v, m1.get(k))
             m = temp
 
         for k, v in m.items():
