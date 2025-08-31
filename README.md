@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1127-last-stone-weight](https://github.com/davewdh/leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/davewdh/leetcode/tree/master/1137-height-checker) |
 | [1184-car-pooling](https://github.com/davewdh/leetcode/tree/master/1184-car-pooling) |
+| [1217-relative-sort-array](https://github.com/davewdh/leetcode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/davewdh/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/davewdh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/davewdh/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1039-find-the-town-judge](https://github.com/davewdh/leetcode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/davewdh/leetcode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/davewdh/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1217-relative-sort-array](https://github.com/davewdh/leetcode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/davewdh/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/davewdh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/davewdh/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/davewdh/leetcode/tree/master/1137-height-checker) |
 | [1184-car-pooling](https://github.com/davewdh/leetcode/tree/master/1184-car-pooling) |
+| [1217-relative-sort-array](https://github.com/davewdh/leetcode/tree/master/1217-relative-sort-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/davewdh/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1962-single-threaded-cpu](https://github.com/davewdh/leetcode/tree/master/1962-single-threaded-cpu) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/davewdh/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -416,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0948-sort-an-array](https://github.com/davewdh/leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/davewdh/leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/davewdh/leetcode/tree/master/1217-relative-sort-array) |
 ## Union Find
 |  |
 | ------- |
