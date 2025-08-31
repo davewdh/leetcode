@@ -3,8 +3,10 @@ class Solution:
         nums.sort()
         prev = 0
         for i in range(len(nums)):
-            for j in range(prev+1, nums[i]+1):
-                if j == (len(nums) - i):
-                    return j
+            temp = prev + 1
+            while temp <= nums[i]:
+                if temp == (len(nums) - i):
+                    return temp
+                temp += 1
             prev = nums[i]
         return -1
