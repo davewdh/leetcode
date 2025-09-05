@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/davewdh/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/davewdh/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/davewdh/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/davewdh/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/davewdh/leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/davewdh/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/davewdh/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/davewdh/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1962-single-threaded-cpu](https://github.com/davewdh/leetcode/tree/master/1962-single-threaded-cpu) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/davewdh/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
 | ------- |
@@ -340,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/davewdh/leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/davewdh/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/davewdh/leetcode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/davewdh/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/davewdh/leetcode/tree/master/3379-score-of-a-string) |
