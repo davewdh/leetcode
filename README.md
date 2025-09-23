@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/davewdh/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/davewdh/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/davewdh/leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/davewdh/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/davewdh/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/davewdh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/davewdh/leetcode/tree/master/0125-valid-palindrome) |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/davewdh/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/davewdh/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/davewdh/leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/davewdh/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/davewdh/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/davewdh/leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/davewdh/leetcode/tree/master/0071-simplify-path) |
@@ -669,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/davewdh/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/davewdh/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/davewdh/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Binary Search Tree
