@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1184-car-pooling](https://github.com/davewdh/leetcode/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/davewdh/leetcode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/davewdh/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/davewdh/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/davewdh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/davewdh/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/davewdh/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/davewdh/leetcode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/davewdh/leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/davewdh/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/davewdh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/davewdh/leetcode/tree/master/1619-path-crossing) |
