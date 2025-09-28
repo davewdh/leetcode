@@ -5,7 +5,6 @@ class Solution:
             if s[i] == t[j]:
                 i += 1
                 j += 1
-                print(j)
             else:
                 i += 1
         return len(t) - j
