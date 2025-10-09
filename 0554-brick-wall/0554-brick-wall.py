@@ -1,12 +1,10 @@
 class Solution:
     def leastBricks(self, wall: List[List[int]]) -> int:
         m = {0: 0}
-        for j in range(len(wall)):
+        for row in wall:
             count = 0
-            for i in range(len(wall[j])):
-                if i == len(wall[j])-1:
-                    break
-                count += wall[j][i]
+            for i in range(len(row) - 1):
+                count += row[i]
                 if m.get(count):
                     m[count] += 1
                 else:
