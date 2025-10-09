@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0473-matchsticks-to-square](https://github.com/davewdh/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/davewdh/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/davewdh/leetcode/tree/master/0496-next-greater-element-i) |
+| [0554-brick-wall](https://github.com/davewdh/leetcode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/davewdh/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/davewdh/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/davewdh/leetcode/tree/master/0621-task-scheduler) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/davewdh/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/davewdh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/davewdh/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0554-brick-wall](https://github.com/davewdh/leetcode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/davewdh/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/davewdh/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/davewdh/leetcode/tree/master/0621-task-scheduler) |
