@@ -2,12 +2,12 @@ class Solution:
     def subarraysDivByK(self, nums: List[int], k: int) -> int:
         m = defaultdict(int)
         m[0] = 1
-        sum = 0
+        s = 0
         ans = 0
 
         for n in nums:
-            sum += n
-            remain = sum % k
+            s += n
+            remain = s % k
 
             ans += m[remain]
             m[remain] += 1
