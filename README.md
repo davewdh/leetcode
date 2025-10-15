@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/davewdh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/davewdh/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/davewdh/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/davewdh/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/davewdh/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/davewdh/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -443,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1016-subarray-sums-divisible-by-k](https://github.com/davewdh/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/davewdh/leetcode/tree/master/1184-car-pooling) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/davewdh/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/davewdh/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/davewdh/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/davewdh/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/davewdh/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -495,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/davewdh/leetcode/tree/master/0392-is-subsequence) |
 | [0473-matchsticks-to-square](https://github.com/davewdh/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/davewdh/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/davewdh/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -529,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/davewdh/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/davewdh/leetcode/tree/master/0189-rotate-array) |
 | [1014-k-closest-points-to-origin](https://github.com/davewdh/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/davewdh/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/davewdh/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/davewdh/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/davewdh/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
