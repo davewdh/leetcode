@@ -10,5 +10,5 @@ class Solution:
         
         for v in m.values():
             if v > 1:
-                ans += int((v * (v - 1)) / 2)
+                ans += ((v * (v - 1)) // 2)
         return ans
