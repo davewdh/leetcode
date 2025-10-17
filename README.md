@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/davewdh/leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/davewdh/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/davewdh/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/davewdh/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/davewdh/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0473-matchsticks-to-square](https://github.com/davewdh/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/davewdh/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/davewdh/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/davewdh/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -589,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0473-matchsticks-to-square](https://github.com/davewdh/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/davewdh/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/davewdh/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/davewdh/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Interactive
 |  |
 | ------- |
@@ -625,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/davewdh/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/davewdh/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/davewdh/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/davewdh/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/davewdh/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Doubly-Linked List
 |  |
@@ -759,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/davewdh/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/davewdh/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/davewdh/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Memoization
 |  |
 | ------- |
