@@ -15,7 +15,7 @@ class Solution:
             elif dominoes[i] == "L" and dominoes[j] == "R":
                 ans += ("." * middle)
             else:
-                ans += (dominoes[i] * int(middle/2)) + ("." * (middle%2)) + (dominoes[j] * int(middle/2))
+                ans += (dominoes[i] * (middle//2)) + ("." * (middle%2)) + (dominoes[j] * (middle//2))
             i = j
         return ans
 
