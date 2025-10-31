@@ -5,7 +5,7 @@ class Solution:
         for c in s:
             if c in temp:
                 ans += 1
-                temp = set()
+                temp.clear()
             
             temp.add(c)
         return ans
