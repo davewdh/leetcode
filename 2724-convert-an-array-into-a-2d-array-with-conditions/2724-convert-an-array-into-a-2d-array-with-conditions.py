@@ -5,10 +5,7 @@ class Solution:
 
         while m:
             row = []
-            temp = []
-            for k, v in m.items():
-                temp.append(k)
-            for k in temp:
+            for k in list(m.keys()):
                 row.append(k)
                 m[k] -= 1
                 if m[k] == 0:
