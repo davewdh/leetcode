@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/davewdh/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/davewdh/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/davewdh/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/davewdh/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/davewdh/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2308-divide-array-into-equal-pairs](https://github.com/davewdh/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/davewdh/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/davewdh/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/davewdh/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/davewdh/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
