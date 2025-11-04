@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2888-minimum-index-of-a-valid-split](https://github.com/davewdh/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/davewdh/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/davewdh/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/davewdh/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/davewdh/leetcode/tree/master/3429-special-array-i) |
 ## Simulation
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/davewdh/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/davewdh/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/davewdh/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Counting
 |  |
 | ------- |
@@ -507,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2487-optimal-partition-of-string](https://github.com/davewdh/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/davewdh/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/davewdh/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/davewdh/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Merge Sort
 |  |
 | ------- |
