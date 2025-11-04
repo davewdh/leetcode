@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/davewdh/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/davewdh/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/davewdh/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/davewdh/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/davewdh/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/davewdh/leetcode/tree/master/3429-special-array-i) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/davewdh/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/davewdh/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/davewdh/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/davewdh/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/davewdh/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/davewdh/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/davewdh/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/davewdh/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
@@ -503,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/davewdh/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/davewdh/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/davewdh/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/davewdh/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Merge Sort
 |  |
 | ------- |
