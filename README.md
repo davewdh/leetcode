@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1184-car-pooling](https://github.com/davewdh/leetcode/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/davewdh/leetcode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/davewdh/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1333-sort-the-jumbled-numbers](https://github.com/davewdh/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/davewdh/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/davewdh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/davewdh/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1137-height-checker](https://github.com/davewdh/leetcode/tree/master/1137-height-checker) |
 | [1184-car-pooling](https://github.com/davewdh/leetcode/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/davewdh/leetcode/tree/master/1217-relative-sort-array) |
+| [1333-sort-the-jumbled-numbers](https://github.com/davewdh/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/davewdh/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/davewdh/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1962-single-threaded-cpu](https://github.com/davewdh/leetcode/tree/master/1962-single-threaded-cpu) |
