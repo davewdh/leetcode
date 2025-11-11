@@ -410,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/davewdh/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/davewdh/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1304-longest-happy-string](https://github.com/davewdh/leetcode/tree/master/1304-longest-happy-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/davewdh/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/davewdh/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/davewdh/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/davewdh/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/davewdh/leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/davewdh/leetcode/tree/master/0937-online-stock-span) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/davewdh/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/davewdh/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/davewdh/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Queue
