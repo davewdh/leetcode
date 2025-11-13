@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2308-divide-array-into-equal-pairs](https://github.com/davewdh/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/davewdh/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/davewdh/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2448-count-number-of-bad-pairs](https://github.com/davewdh/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/davewdh/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/davewdh/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/davewdh/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/davewdh/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/davewdh/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/davewdh/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/davewdh/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/davewdh/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/davewdh/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/davewdh/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/davewdh/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/davewdh/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -607,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/davewdh/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/davewdh/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/davewdh/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2448-count-number-of-bad-pairs](https://github.com/davewdh/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
