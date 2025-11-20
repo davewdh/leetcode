@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2145-grid-game](https://github.com/davewdh/leetcode/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/davewdh/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/davewdh/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/davewdh/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/davewdh/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/davewdh/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/davewdh/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/davewdh/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/davewdh/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/davewdh/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/davewdh/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/davewdh/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Linked List
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/davewdh/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/davewdh/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/davewdh/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/davewdh/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2465-shifting-letters-ii](https://github.com/davewdh/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2487-optimal-partition-of-string](https://github.com/davewdh/leetcode/tree/master/2487-optimal-partition-of-string) |
