@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/davewdh/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/davewdh/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/davewdh/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/davewdh/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/davewdh/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/davewdh/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/davewdh/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/davewdh/leetcode/tree/master/1619-path-crossing) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/davewdh/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/davewdh/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/davewdh/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/davewdh/leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/davewdh/leetcode/tree/master/1894-merge-strings-alternately) |
