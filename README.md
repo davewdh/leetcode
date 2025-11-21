@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/davewdh/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/davewdh/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
+| [2551-apply-operations-to-an-array](https://github.com/davewdh/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/davewdh/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/davewdh/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/davewdh/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1803-average-waiting-time](https://github.com/davewdh/leetcode/tree/master/1803-average-waiting-time) |
 | [2058-concatenation-of-array](https://github.com/davewdh/leetcode/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/davewdh/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2551-apply-operations-to-an-array](https://github.com/davewdh/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1894-merge-strings-alternately](https://github.com/davewdh/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/davewdh/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/davewdh/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2551-apply-operations-to-an-array](https://github.com/davewdh/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/davewdh/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/davewdh/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Linked List
