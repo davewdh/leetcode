@@ -4,7 +4,7 @@ class Solution:
         ans = ""
         for i in range(len(s)):
 
-            if l < len(spaces) and (spaces[l] == 0 or i == spaces[l]):
+            if l < len(spaces) and i == spaces[l]:
                 ans += " "
                 l += 1
             ans += s[i]
