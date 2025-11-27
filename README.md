@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/davewdh/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1333-sort-the-jumbled-numbers](https://github.com/davewdh/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/davewdh/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/davewdh/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/davewdh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/davewdh/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/davewdh/leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/davewdh/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/davewdh/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/davewdh/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/davewdh/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/davewdh/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/davewdh/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1184-car-pooling](https://github.com/davewdh/leetcode/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/davewdh/leetcode/tree/master/1217-relative-sort-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/davewdh/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/davewdh/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/davewdh/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/davewdh/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1962-single-threaded-cpu](https://github.com/davewdh/leetcode/tree/master/1962-single-threaded-cpu) |
@@ -629,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/davewdh/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/davewdh/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/davewdh/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/davewdh/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/davewdh/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sliding Window
 |  |
