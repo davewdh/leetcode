@@ -658,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/davewdh/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/davewdh/leetcode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/davewdh/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0779-k-th-symbol-in-grammar](https://github.com/davewdh/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1014-k-closest-points-to-origin](https://github.com/davewdh/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/davewdh/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/davewdh/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -728,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/davewdh/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/davewdh/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/davewdh/leetcode/tree/master/0394-decode-string) |
+| [0779-k-th-symbol-in-grammar](https://github.com/davewdh/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -750,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0473-matchsticks-to-square](https://github.com/davewdh/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/davewdh/leetcode/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/davewdh/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0779-k-th-symbol-in-grammar](https://github.com/davewdh/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/davewdh/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/davewdh/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/davewdh/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
