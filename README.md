@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/davewdh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/davewdh/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/davewdh/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/davewdh/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/davewdh/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/davewdh/leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/davewdh/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/davewdh/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/davewdh/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1619-path-crossing](https://github.com/davewdh/leetcode/tree/master/1619-path-crossing) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/davewdh/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/davewdh/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -577,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/davewdh/leetcode/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/davewdh/leetcode/tree/master/0917-boats-to-save-people) |
 | [1304-longest-happy-string](https://github.com/davewdh/leetcode/tree/master/1304-longest-happy-string) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/davewdh/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/davewdh/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/davewdh/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/davewdh/leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -620,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0473-matchsticks-to-square](https://github.com/davewdh/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/davewdh/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0868-push-dominoes](https://github.com/davewdh/leetcode/tree/master/0868-push-dominoes) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/davewdh/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/davewdh/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/davewdh/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Binary Search
