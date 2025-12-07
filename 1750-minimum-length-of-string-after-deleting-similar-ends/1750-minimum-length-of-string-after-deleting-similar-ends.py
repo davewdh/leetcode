@@ -3,27 +3,11 @@ class Solution:
         n = len(s)
         ans = n
         l, r = 0, n - 1
-        while l < r:
-            if s[l] == s[r]:
-                temp = s[l]
-                countl = 0
-                while l < r:
-                    if s[l] == temp:
-                        countl += 1
-                        l += 1
-                    else:
-                        break
-                countr = 0
-                while l < r:
-                    if s[r] == temp:
-                        countr += 1
-                        r -= 1
-                    else:
-                        break
-                ans = ans - countl - countr
-                if l == r and s[l] == temp:
-                    ans -= 1
-                print(ans)
-            else:
-                return ans
-        return ans
+        while l < r and s[l] == s[r]:
+            temp = s[l]
+            while l <= r and s[l] == temp:
+                    l += 1
+            while l <= r and s[r] == temp:
+                    r -= 1
+        return r - l + 1
+    
