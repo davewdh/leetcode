@@ -10,17 +10,11 @@ class Solution:
             prefix += s1[l]
             l += 1
         while l <= r1 and s1[r1] == s2[r2]:
-            print(1)
             temp = s1[r1] + suffix
-            print(temp)
             suffix  = temp
-            print(suffix)
             r1 -= 1
             r2 -= 1
             
-     
-        print(prefix + suffix)
-        print("".join(s1))
         if (prefix + suffix) == "".join(s1):
             return True
         else:
