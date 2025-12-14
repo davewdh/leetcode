@@ -5,7 +5,8 @@ class Solution:
         r = k - 1
         ans = nums[r] - nums[l]
         l += 1
-        for r in range(k, len(nums)):
+        r += 1
+        while r < len(nums):
             ans = min(nums[r] - nums[l], ans)
             l += 1
             r += 1
