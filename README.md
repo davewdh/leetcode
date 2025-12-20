@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/davewdh/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/davewdh/leetcode/tree/master/1803-average-waiting-time) |
 | [1813-sentence-similarity-iii](https://github.com/davewdh/leetcode/tree/master/1813-sentence-similarity-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/davewdh/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/davewdh/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/davewdh/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/davewdh/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/davewdh/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/davewdh/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/davewdh/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/davewdh/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1962-single-threaded-cpu](https://github.com/davewdh/leetcode/tree/master/1962-single-threaded-cpu) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/davewdh/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/davewdh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/davewdh/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1694-make-sum-divisible-by-p](https://github.com/davewdh/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/davewdh/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/davewdh/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/davewdh/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/davewdh/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/davewdh/leetcode/tree/master/2145-grid-game) |
@@ -600,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0948-bag-of-tokens](https://github.com/davewdh/leetcode/tree/master/0948-bag-of-tokens) |
 | [1304-longest-happy-string](https://github.com/davewdh/leetcode/tree/master/1304-longest-happy-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/davewdh/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/davewdh/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/davewdh/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/davewdh/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/davewdh/leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -667,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/davewdh/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/davewdh/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/davewdh/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/davewdh/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -680,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1052-grumpy-bookstore-owner](https://github.com/davewdh/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/davewdh/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/davewdh/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/davewdh/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/davewdh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/davewdh/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3208-alternating-groups-ii](https://github.com/davewdh/leetcode/tree/master/3208-alternating-groups-ii) |
