@@ -1,34 +1,34 @@
 class Solution:
     def decrypt(self, code: List[int], k: int) -> List[int]:
-        code1 = code + code[:k+1]
-        code2 = code[len(code) - abs(k):] + code
-        l1 = 0
-        l2 = 0
+        n = len(code)
+        code = code + code
         ans = []
-        total1 = 0
-        total2 = 0
+        total = 0
 
         if k > 0:
-            for r in range(len(code1)):
-                total1 += code1[r]
-                if r >= k:
-                    total1 -= code1[l1]
-                    ans.append(total1)
-                    l1 += 1
-                    if len(ans) == len(code):
+            l = 1
+            for r in range(1, len(code)):
+                total += code[r]
+                if r - l + 1 == k:
+                    ans.append(total)
+                    total -= code[l]
+                    l += 1
+                    if len(ans) == n:
                         return ans
         
         elif k < 0:
-            for r in range(len(code2)):
-                total2 += code2[r]
-                if r >= abs(k) - 1:
-                    ans.append(total2)
-                    total2 -= code2[l2]
-                    l2 += 1
-                    if len(ans) == len(code):
+            k = abs(k)
+            l = n - k
+            for r in range(l, len(code)):
+                total += code[r]
+                if r - l + 1 == k:
+                    ans.append(total)
+                    total -= code[l]
+                    l += 1
+                    if len(ans) == n:
                         return ans
         else:
-            return [0] * len(code)
+            return [0] * n
 
 
    
