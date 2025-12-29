@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3208-alternating-groups-ii](https://github.com/davewdh/leetcode/tree/master/3208-alternating-groups-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/davewdh/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/davewdh/leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/davewdh/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/davewdh/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/davewdh/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -714,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/davewdh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/davewdh/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3208-alternating-groups-ii](https://github.com/davewdh/leetcode/tree/master/3208-alternating-groups-ii) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/davewdh/leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
 | ------- |
