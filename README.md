@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2358-number-of-ways-to-split-array](https://github.com/davewdh/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/davewdh/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/davewdh/leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/davewdh/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-shifting-letters-ii](https://github.com/davewdh/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/davewdh/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2163-kth-distinct-string-in-an-array](https://github.com/davewdh/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/davewdh/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/davewdh/leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/davewdh/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2487-optimal-partition-of-string](https://github.com/davewdh/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/davewdh/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
@@ -714,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/davewdh/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/davewdh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/davewdh/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/davewdh/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3208-alternating-groups-ii](https://github.com/davewdh/leetcode/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/davewdh/leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Math
