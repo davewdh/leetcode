@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1184-car-pooling](https://github.com/davewdh/leetcode/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/davewdh/leetcode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/davewdh/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1248-count-number-of-nice-subarrays](https://github.com/davewdh/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1333-sort-the-jumbled-numbers](https://github.com/davewdh/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/davewdh/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/davewdh/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/davewdh/leetcode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/davewdh/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/davewdh/leetcode/tree/master/1217-relative-sort-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/davewdh/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-balloons](https://github.com/davewdh/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/davewdh/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/davewdh/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -582,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1016-subarray-sums-divisible-by-k](https://github.com/davewdh/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/davewdh/leetcode/tree/master/1184-car-pooling) |
 | [1208-get-equal-substrings-within-budget](https://github.com/davewdh/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1248-count-number-of-nice-subarrays](https://github.com/davewdh/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/davewdh/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/davewdh/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/davewdh/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -696,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/davewdh/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/davewdh/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/davewdh/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1248-count-number-of-nice-subarrays](https://github.com/davewdh/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/davewdh/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/davewdh/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/davewdh/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -715,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/davewdh/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/davewdh/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1014-k-closest-points-to-origin](https://github.com/davewdh/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1248-count-number-of-nice-subarrays](https://github.com/davewdh/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/davewdh/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/davewdh/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/davewdh/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
