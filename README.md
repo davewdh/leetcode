@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2727-number-of-senior-citizens](https://github.com/davewdh/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/davewdh/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/davewdh/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/davewdh/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/davewdh/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3208-alternating-groups-ii](https://github.com/davewdh/leetcode/tree/master/3208-alternating-groups-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -720,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/davewdh/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/davewdh/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/davewdh/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/davewdh/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3208-alternating-groups-ii](https://github.com/davewdh/leetcode/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/davewdh/leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Math
