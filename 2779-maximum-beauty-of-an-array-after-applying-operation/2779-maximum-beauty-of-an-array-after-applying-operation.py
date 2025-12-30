@@ -11,7 +11,6 @@ class Solution:
             while nums[r] - nums[l] > 2 * k:
                 l += 1
             
-            if nums[r] - nums[l] <= 2 * k:
-                ans = max(ans, r-l+1)
+            ans = max(ans, r-l+1)
 
         return ans
