@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2487-optimal-partition-of-string](https://github.com/davewdh/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/davewdh/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/davewdh/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/davewdh/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/davewdh/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/davewdh/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/davewdh/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2487-optimal-partition-of-string](https://github.com/davewdh/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/davewdh/leetcode/tree/master/2502-sort-the-people) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/davewdh/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/davewdh/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/davewdh/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/davewdh/leetcode/tree/master/2580-circular-sentence) |
@@ -723,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/davewdh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/davewdh/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/davewdh/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/davewdh/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/davewdh/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/davewdh/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/davewdh/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
