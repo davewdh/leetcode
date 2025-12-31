@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/davewdh/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/davewdh/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3227-find-missing-and-repeated-values](https://github.com/davewdh/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/davewdh/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/davewdh/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/davewdh/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -534,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2580-circular-sentence](https://github.com/davewdh/leetcode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/davewdh/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/davewdh/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/davewdh/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/davewdh/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/davewdh/leetcode/tree/master/3379-score-of-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/davewdh/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -731,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/davewdh/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3208-alternating-groups-ii](https://github.com/davewdh/leetcode/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/davewdh/leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/davewdh/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Math
 |  |
 | ------- |
