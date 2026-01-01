@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2195-time-needed-to-buy-tickets](https://github.com/davewdh/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/davewdh/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/davewdh/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/davewdh/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -538,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2576-minimum-penalty-for-a-shop](https://github.com/davewdh/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/davewdh/leetcode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/davewdh/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/davewdh/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2727-number-of-senior-citizens](https://github.com/davewdh/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/davewdh/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/davewdh/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -783,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1598-crawler-log-folder](https://github.com/davewdh/leetcode/tree/master/1598-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/davewdh/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/davewdh/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/davewdh/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Queue
 |  |
 | ------- |
