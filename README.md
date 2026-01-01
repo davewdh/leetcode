@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/davewdh/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/davewdh/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1598-crawler-log-folder](https://github.com/davewdh/leetcode/tree/master/1598-crawler-log-folder) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/davewdh/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/davewdh/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/davewdh/leetcode/tree/master/1652-defuse-the-bomb) |
@@ -507,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/davewdh/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/davewdh/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1598-crawler-log-folder](https://github.com/davewdh/leetcode/tree/master/1598-crawler-log-folder) |
 | [1619-path-crossing](https://github.com/davewdh/leetcode/tree/master/1619-path-crossing) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/davewdh/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/davewdh/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -774,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0883-car-fleet](https://github.com/davewdh/leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/davewdh/leetcode/tree/master/0937-online-stock-span) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/davewdh/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1598-crawler-log-folder](https://github.com/davewdh/leetcode/tree/master/1598-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/davewdh/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/davewdh/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Queue
