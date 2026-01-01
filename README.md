@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/davewdh/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1524-string-matching-in-an-array](https://github.com/davewdh/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/davewdh/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1544-make-the-string-great](https://github.com/davewdh/leetcode/tree/master/1544-make-the-string-great) |
 | [1547-destination-city](https://github.com/davewdh/leetcode/tree/master/1547-destination-city) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/davewdh/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1598-crawler-log-folder](https://github.com/davewdh/leetcode/tree/master/1598-crawler-log-folder) |
@@ -778,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0937-online-stock-span](https://github.com/davewdh/leetcode/tree/master/0937-online-stock-span) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/davewdh/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/davewdh/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/davewdh/leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/davewdh/leetcode/tree/master/1598-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/davewdh/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/davewdh/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
