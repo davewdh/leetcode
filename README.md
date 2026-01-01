@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1333-sort-the-jumbled-numbers](https://github.com/davewdh/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/davewdh/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/davewdh/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/davewdh/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/davewdh/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/davewdh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/davewdh/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -776,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0883-car-fleet](https://github.com/davewdh/leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/davewdh/leetcode/tree/master/0937-online-stock-span) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/davewdh/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/davewdh/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/davewdh/leetcode/tree/master/1598-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/davewdh/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/davewdh/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -826,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/davewdh/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/davewdh/leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/davewdh/leetcode/tree/master/0937-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/davewdh/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
 |  |
 | ------- |
