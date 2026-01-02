@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/davewdh/leetcode/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/davewdh/leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/davewdh/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0946-validate-stack-sequences](https://github.com/davewdh/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0948-sort-an-array](https://github.com/davewdh/leetcode/tree/master/0948-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/davewdh/leetcode/tree/master/0948-bag-of-tokens) |
 | [0952-word-subsets](https://github.com/davewdh/leetcode/tree/master/0952-word-subsets) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/davewdh/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/davewdh/leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/davewdh/leetcode/tree/master/0874-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/davewdh/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1184-car-pooling](https://github.com/davewdh/leetcode/tree/master/1184-car-pooling) |
 | [1708-design-parking-system](https://github.com/davewdh/leetcode/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/davewdh/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -779,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0874-backspace-string-compare](https://github.com/davewdh/leetcode/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/davewdh/leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/davewdh/leetcode/tree/master/0937-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/davewdh/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/davewdh/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/davewdh/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/davewdh/leetcode/tree/master/1544-make-the-string-great) |
