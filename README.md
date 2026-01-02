@@ -482,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/davewdh/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/davewdh/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/davewdh/leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/davewdh/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/davewdh/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/davewdh/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/davewdh/leetcode/tree/master/0443-string-compression) |
@@ -627,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/davewdh/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/davewdh/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/davewdh/leetcode/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/davewdh/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/davewdh/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/davewdh/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/davewdh/leetcode/tree/master/0605-can-place-flowers) |
@@ -774,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/davewdh/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/davewdh/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/davewdh/leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/davewdh/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/davewdh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/davewdh/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/davewdh/leetcode/tree/master/0735-asteroid-collision) |
@@ -832,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/davewdh/leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/davewdh/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/davewdh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/davewdh/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/davewdh/leetcode/tree/master/0883-car-fleet) |
