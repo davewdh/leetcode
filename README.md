@@ -497,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0868-push-dominoes](https://github.com/davewdh/leetcode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/davewdh/leetcode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/davewdh/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/davewdh/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0952-word-subsets](https://github.com/davewdh/leetcode/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/davewdh/leetcode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/davewdh/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -638,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/davewdh/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/davewdh/leetcode/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/davewdh/leetcode/tree/master/0917-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/davewdh/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/davewdh/leetcode/tree/master/0948-bag-of-tokens) |
 | [1304-longest-happy-string](https://github.com/davewdh/leetcode/tree/master/1304-longest-happy-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/davewdh/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -785,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/davewdh/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/davewdh/leetcode/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/davewdh/leetcode/tree/master/0883-car-fleet) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/davewdh/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/davewdh/leetcode/tree/master/0937-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/davewdh/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/davewdh/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
